@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult(intent5,REQUEST_FUN);
     }
 
-
-
     public void func6(View view){
         Intent intent6 = new Intent(this,Func6Activity.class);
         startActivityForResult(intent6,REQUEST_FUN);
