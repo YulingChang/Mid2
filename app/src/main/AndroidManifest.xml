@@ -23,7 +23,7 @@
         <activity android:name=".Func5Activity" />
         <activity android:name=".Func6Activity" />
         <activity android:name=".Func7Activity" />
-        <activity android:name=".Func8Activity"></activity>
+        <activity android:name=".Func8Activity" />
     </application>
 
 </manifest>
